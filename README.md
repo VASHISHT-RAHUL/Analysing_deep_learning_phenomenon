@@ -25,6 +25,28 @@ Consider the following setting
  ![plot](plots/m1_fig2.png)
  ![plot](plots/m1_fig3.png)
  ![plot](plots/m1_fig4.png)
+
+ - Will add plots for the remaining document types here.
+
+  - 2-head 1-layer, training-loss 1.737
+
+  - document accuracy for 5 generated runs
+
+
+|  seed |  accuracy  |
+| ----  | ---------  |
+| 0 |  83.5 |
+| 1 | 85   |
+| 2 | 81.5 |
+| 3 | 86  |
+| 4 |  85.5 |
+
+ ![plot](plots/m2_fig1.png)
+ ![plot](plots/m2_fig2.png)
+ ![plot](plots/m2_fig3.png)
+ ![plot](plots/m2_fig4.png)
+
+
  
 
   
