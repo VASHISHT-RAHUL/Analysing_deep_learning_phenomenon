@@ -84,7 +84,7 @@ Consider the following setting
  ![plot](plots/h4/token_distribution_doc_type_7.png)
  ![plot](plots/h4/token_distribution_doc_type_8.png)
  ![plot](plots/h4/token_distribution_doc_type_9.png)
- ![plot](plots/h4token_distribution_doc_type_10.png)
+ ![plot](plots/h4/token_distribution_doc_type_10.png)
 
 
  
