@@ -87,6 +87,45 @@ Consider the following setting
  ![plot](plots/h4/token_distribution_doc_type_10.png)
 
 
+
+  - 8-heads 1-layer, training-loss 1.741
+
+  - document accuracy for 5 generated runs
+
+
+|  seed |  accuracy  |
+| ----  | ---------  |
+| 0 |  82 |
+| 1 | 84   |
+| 2 | 82 |
+| 3 | 84.5  |
+| 4 |  83.5 |
+
+## Attention head
+ ![plot](plots/h8/attention_distribution_doc_type_1.png)
+ ![plot](plots/h8/attention_distribution_doc_type_2.png)
+ ![plot](plots/h8/attention_distribution_doc_type_3.png)
+ ![plot](plots/h8/attention_distribution_doc_type_4.png)
+ ![plot](plots/h8/attention_distribution_doc_type_5.png)
+ ![plot](plots/h8/attention_distribution_doc_type_6.png)
+ ![plot](plots/h8/attention_distribution_doc_type_7.png)
+ ![plot](plots/h8/attention_distribution_doc_type_8.png)
+ ![plot](plots/h8/attention_distribution_doc_type_9.png)
+ ![plot](plots/h8/attention_distribution_doc_type_10.png)
+
+ ## Logits distribution
+
+ ![plot](plots/h8/token_distribution_doc_type_1.png)
+ ![plot](plots/h8/token_distribution_doc_type_2.png)
+ ![plot](plots/h8/token_distribution_doc_type_3.png)
+ ![plot](plots/h8/token_distribution_doc_type_4.png)
+ ![plot](plots/h8/token_distribution_doc_type_5.png)
+ ![plot](plots/h8/token_distribution_doc_type_6.png)
+ ![plot](plots/h8/token_distribution_doc_type_7.png)
+ ![plot](plots/h8/token_distribution_doc_type_8.png)
+ ![plot](plots/h8/token_distribution_doc_type_9.png)
+ ![plot](plots/h8/token_distribution_doc_type_10.png)
+
  
 
   
