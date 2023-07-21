@@ -61,10 +61,30 @@ Consider the following setting
 | 3 | 86  |
 | 4 |  85.5 |
 
- ![plot](plots/m2_fig1.png)
- ![plot](plots/m2_fig2.png)
- ![plot](plots/m2_fig3.png)
- ![plot](plots/m2_fig4.png)
+## Attention head
+ ![plot](plots/h4/attention_distribution_doc_type_1.png)
+ ![plot](plots/h4/attention_distribution_doc_type_2.png)
+ ![plot](plots/h4/attention_distribution_doc_type_3.png)
+ ![plot](plots/h4/attention_distribution_doc_type_4.png)
+ ![plot](plots/h4/attention_distribution_doc_type_5.png)
+ ![plot](plots/h4/attention_distribution_doc_type_6.png)
+ ![plot](plots/h4/attention_distribution_doc_type_7.png)
+ ![plot](plots/h4/attention_distribution_doc_type_8.png)
+ ![plot](plots/h4/attention_distribution_doc_type_9.png)
+ ![plot](plots/h4/attention_distribution_doc_type_10.png)
+
+ ## Logits distribution
+
+ ![plot](plots/h4/token_distribution_doc_type_1.png)
+ ![plot](plots/h4/token_distribution_doc_type_2.png)
+ ![plot](plots/h4/token_distribution_doc_type_3.png)
+ ![plot](plots/h4/token_distribution_doc_type_4.png)
+ ![plot](plots/h4/token_distribution_doc_type_5.png)
+ ![plot](plots/h4/token_distribution_doc_type_6.png)
+ ![plot](plots/h4/token_distribution_doc_type_7.png)
+ ![plot](plots/h4/token_distribution_doc_type_8.png)
+ ![plot](plots/h4/token_distribution_doc_type_9.png)
+ ![plot](plots/h4token_distribution_doc_type_10.png)
 
 
  
