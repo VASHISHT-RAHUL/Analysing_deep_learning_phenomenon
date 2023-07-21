@@ -21,10 +21,16 @@ Consider the following setting
 
 - Attention and Logits distribution
 
- ![plot](plots/m1_fig1.png)
- ![plot](plots/m1_fig2.png)
- ![plot](plots/m1_fig3.png)
- ![plot](plots/m1_fig4.png)
+ ![plot](plots/attention_distribution_doc_type_1.png)
+ ![plot](plots/attention_distribution_doc_type_2.png)
+ ![plot](plots/attention_distribution_doc_type_3.png)
+ ![plot](plots/attention_distribution_doc_type_4.png)
+ ![plot](plots/attention_distribution_doc_type_5.png)
+ ![plot](plots/attention_distribution_doc_type_6.png)
+ ![plot](plots/attention_distribution_doc_type_7.png)
+ ![plot](plots/attention_distribution_doc_type_8.png)
+ ![plot](plots/attention_distribution_doc_type_9.png)
+ ![plot](plots/attention_distribution_doc_type_10.png)
 
  - Will add plots for the remaining document types here.
 
