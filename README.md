@@ -48,18 +48,18 @@ Consider the following setting
 
  
 
-  - 2-head 1-layer, training-loss 1.737
+  - 4-heads 1-layer, training-loss 1.740
 
   - document accuracy for 5 generated runs
 
 
 |  seed |  accuracy  |
 | ----  | ---------  |
-| 0 |  83.5 |
-| 1 | 85   |
-| 2 | 81.5 |
-| 3 | 86  |
-| 4 |  85.5 |
+| 0 |  85.5 |
+| 1 | 86   |
+| 2 | 82.5 |
+| 3 | 84.5  |
+| 4 |  84 |
 
 ## Attention head
  ![plot](plots/h4/attention_distribution_doc_type_1.png)
